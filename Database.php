@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Created by Hugo Lefrancq
+ * https://hugolefrancq.fr
+ * https://github.com/XinTecK
+ */
 class Database
 {
 
