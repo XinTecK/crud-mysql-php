@@ -49,7 +49,7 @@ At the moment, I've got three rows in this which are :
 # Author
 Hugo Lefrancq :  
 [Website](https://hugolefrancq.fr)  
-[Twitter](https://twitter.com/xinteck_)
+[Twitter](https://twitter.com/xinteck_)  
 [LinkedIn](https://www.linkedin.com/in/hugo-lefrancq-b78ba5155/)  
 
 # License  
