@@ -48,9 +48,9 @@ At the moment, I've got three rows in this which are :
 
 # Author
 Hugo Lefrancq :  
-https://hugolefrancq.fr  
-https://twitter.com/xinteck_  
-https://www.linkedin.com/in/hugo-lefrancq-b78ba5155/  
+[Website](https://hugolefrancq.fr)  
+[Twitter](https://twitter.com/xinteck_)
+[LinkedIn](https://www.linkedin.com/in/hugo-lefrancq-b78ba5155/)  
 
 # License  
 crud-mysql-php is licensed under the [MIT license](https://opensource.org/licenses/MIT); see the "LICENSE" file.
